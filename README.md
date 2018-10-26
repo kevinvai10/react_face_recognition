@@ -1,6 +1,6 @@
 Aplicación para reconocimiento de rostros en una imagen
 
-##Instrucciones
+#Instrucciones
 
 -npm install
 -npm start
