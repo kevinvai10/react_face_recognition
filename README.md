@@ -1,4 +1,4 @@
-Aplicación para reconocimiento de rostros en una imagen
+Aplicación para reconocimiento de rostros en una imagen<br>
 
 #Instrucciones
 
